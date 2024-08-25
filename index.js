@@ -1,9 +1,9 @@
-function run(){
-    console.log("App is running");
+function run(a){
+    console.log("App is running " + a);
 }
 
-run();
-
 let a = "Sahil";
+run(a);
+
 
 console.log(a);
