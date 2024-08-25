@@ -1,4 +1,8 @@
-function run(){
-    console.log('App is running');
+function a( A,  B){
+    return A + B;
 }
-run();
+a(5,3);
+
+let sahil = "sja";
+
+let test = "abc"
