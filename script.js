@@ -6,5 +6,3 @@ a(5,3);
 let sahil = "sja";
 
 let test = "abc"
-
-
